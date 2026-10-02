@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE/editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# Node / frontend
+node_modules/
+.next/
+out/
+coverage/
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Python packaging
+*.egg-info/
+.eggs/
+
+# Local data
+.chroma/
